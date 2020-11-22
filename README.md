@@ -19,4 +19,4 @@ For the Outcomes based on goals sheet i've concluded that the lowest goal has th
 I'd say one limitation of this data sheet is in the Theater outcomes by launch date sheet. In the month of October there weren't any cancellations and it shows on the graph. But on the graph the lines stop which brings more attention to the graph. How does an indiviual who's looking at the graph and chart know that the number is supposed to be zero in that blank?
 
 ### Tables/Graphs
-Another pivot table and chart that could be created is the successful groups with the backers count. So people can see what groups received extra funding and who had the most.
+Another pivot table and chart that could be created is, the successful groups with the backers count. So people can see what groups received extra funding and who had the most on the back-end.
