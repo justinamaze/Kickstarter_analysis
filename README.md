@@ -1,5 +1,7 @@
-# Kickstarter_analysis##
+# Kickstarter_analysis
+
 ### Overview of the project
+
 ## Purpose
 The purpose of this project is to utilize the Kickstarter dataset to provide the visual Theater outcomes based on Launch date and Outcomes Based on the Goal. 
 
